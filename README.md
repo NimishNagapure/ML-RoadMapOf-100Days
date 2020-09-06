@@ -1,34 +1,34 @@
 # 100-Days-Of-ML-Code
 
-100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+100 Days of Machine Learning Coding.
 
-Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
+Get the datasets from [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/tree/master/datasets)
 
 ## Data PreProcessing | Day 1
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+Check out the code from [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+Check out the code from [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Check out the code from [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%203.jpg">
 </p>
 
 ## Logistic Regression | Day 4
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## Logistic Regression | Day 5
@@ -37,11 +37,11 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+Check out the Code [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## Math Behind Logistic Regression | Day 8 
@@ -63,7 +63,7 @@ Support Vector Machine Infographic is halfway complete. Will update it tomorrow.
 
 ## Support Vector Machines | Day 12
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%2012.jpg">
 </p>
 
 ## Naive Bayes Classifier | Day 13
@@ -73,7 +73,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+Check the code [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about different types of naive bayes classifiers. Also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
@@ -101,14 +101,14 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 
 ## Decision Trees | Day 23
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%2023.jpg">
 </p>
 
 ## Introduction To Statistical Learning Theory | Day 24
 Lec 3 of Bloomberg ML course introduced some of the core concepts like input space, action space, outcome space, prediction functions, loss functions, and hypothesis spaces.
 
 ## Implementing Decision Trees | Day 25
-Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md)
+Check the code [here.](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%2025%20Decision%20Tree.md)
 
 ## Jumped To Brush up Linear Algebra | Day 26
 Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
@@ -151,11 +151,11 @@ Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 
 ## Random Forests | Day 33
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%2033.jpg">
 </p>
 
 ## Implementing Random Forests | Day 34
-Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
+Check the code [here.](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%2034%20Random_Forest.md)
 
 ## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
 An Amazing Video on neural networks by 3Blue1Brown youtube channel. This video gives a good understanding of Neural Networks and uses Handwritten digit dataset to explain the concept. 
@@ -191,11 +191,11 @@ Working on my website check it out [avikjain.me](http://www.avikjain.me/)
 Also found a wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%2043.jpg">
 </p>
 
 ## K Means Clustering Implementation | Day 44
-Implemented K Means Clustering. Check the code [here.]()
+Implemented K Means Clustering. Check the code [here.](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Code/Day%2011%20K-NN.md)
 
 ## Digging Deeper | NUMPY  | Day 45
 Got a new book "Python Data Science HandBook" by JK VanderPlas Check the Jupyter notebooks [here.](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -274,5 +274,5 @@ Chapter 4: Covered Three Dimensional Plotting in Mathplotlib.
 Studied about Hierarchical Clustering.
 Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/1*ET8kCcPpr893vNZFs8j4xg.gif)
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
+  <img src="https://github.com/NimishNagapure/ML-RoadMapOf-100Days/blob/master/Info-graphs/Day%2054.jpg">
 </p>
