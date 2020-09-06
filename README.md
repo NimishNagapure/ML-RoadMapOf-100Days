@@ -1,6 +1,6 @@
-# 100-Days-Of-ML-Code
+# ML - RoadMapOf - 100 Days
 
-100 Days of Machine Learning Coding.
+100 Days of Machine Learning Coding With [Nimish](https://github.com/NimishNagapure/ML-RoadMapOf-100Days).
 
 Get the datasets from [here](https://github.com/NimishNagapure/ML-RoadMapOf-100Days/tree/master/datasets)
 
@@ -187,7 +187,6 @@ Link To the [video.](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0Q
 
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
-Working on my website check it out [avikjain.me](http://www.avikjain.me/)
 Also found a wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
 
 <p align="center">
